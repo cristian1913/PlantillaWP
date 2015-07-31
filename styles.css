@@ -1,1 +1,7 @@
-Wordpres Hoja de estilo principal
+body {
+	margin: 0px;
+	padding: 0px;
+	font-size: 13px;
+	color: black;
+	font-family: Arial;
+}
