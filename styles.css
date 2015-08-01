@@ -76,7 +76,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		padding: 10px;
 		background-color: #BE691B;
 		text-transform: uppercase;
-		color: #fff;
+		font-family: 'Droid Sans', sans-serif;
+		font-size: 15px;
 		padding-left: 10px;
 	}
 	
