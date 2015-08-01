@@ -31,5 +31,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 
 	.contenedorheader .img {
 		float: left;
-		
+		padding: 0px;
+		margin: 0px;
+		width: 50px;
+
 	}
