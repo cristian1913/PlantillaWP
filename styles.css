@@ -50,4 +50,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		margin: 0px;
 	}
 
-	
+	.contenedorheader .menu li {
+		float: left;
+	}
