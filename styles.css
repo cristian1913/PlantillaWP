@@ -78,6 +78,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		text-transform: uppercase;
 		color: #fff;
 		padding-left: 10px;
+	}
 	
+	.contenedorheader .boton a {
+		text-decoration: none;
+		color: #fff;
 	}
 
