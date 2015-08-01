@@ -39,7 +39,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		width: 50px;
 	}
 
-	.contenedormenu {
+	.contenedorheader .menu {
 		float: left;
 		margin: 0px;
 		padding: 0px;
