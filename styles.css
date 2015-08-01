@@ -35,10 +35,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		margin: 0px;
 	}
 
-	.contenedorheader img {
-		width: 300px;
-	}
-
+	
 	.contenedorheader .menu {
 		float: left;
 		margin: 0px;
