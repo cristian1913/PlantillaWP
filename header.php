@@ -10,6 +10,7 @@
 		<img src="http://futbolete.com/wp-content/uploads/2015/03/lunari-4.jpg" alt="">
 		<p>El flamante entrenador embajador se comia todas las.....</p>
 	</article>
+	<h3>Final del documento.</h3>
 </head>
 <body>
 	
