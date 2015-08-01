@@ -1,4 +1,4 @@
-body {
+	body {
 	margin: 0px;
 	padding: 0px;
 	font-size: 13px;
@@ -68,19 +68,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 	.contenedorheader .menu ul li a:hover {
 		color: #A84617;
 	}
-	}
-
-	.contenedorheader .boton {
-		float: right;
-		background-color: #1F23EB;
-		padding: 15px;
-		border-radius: 10px;
-		text-transform: uppercase;
-		font-family: 'Arimo', sans-serif;
-		font-size: 20px;
-	}
-	
-	
-		
-
 
