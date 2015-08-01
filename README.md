@@ -6,3 +6,5 @@ En este repositorio se creará una plantilla Wordpress en sus diferentes etapas,
 3- Hacks<p>
 4- Panel de plantilla<p>
 5- Plugins internos<p>
+
+<p>Segundo intento</p>
