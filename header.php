@@ -8,6 +8,7 @@
 	<article>
 		<h1>Lunari murio de gonorrea</h1>
 		<img src="http://futbolete.com/wp-content/uploads/2015/03/lunari-4.jpg" alt="">
+		<p>El flamante entrenador embajador se comia todas las.....</p>
 	</article>
 </head>
 <body>
