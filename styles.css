@@ -60,5 +60,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		font-family: 'Droid Sans', sans-serif;
 		border-right: 1px solid #433D78;
 		padding: 15px;
+		margin-top: 20px;
+		margin-bottom: 20px;
 
 	}
