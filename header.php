@@ -12,7 +12,7 @@
 	</article>
 	<h3>Final del documento.</h3>
 	<h5>Hola etiqueta</h5>
-	<h3>El titulo sigue siendo el mismo</h3>
+
 <style>
 body {
 	margin: 0px;
