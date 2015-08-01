@@ -28,3 +28,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		margin: 0 auto;
 		overflow: hidden;
 	}
+
+	.contenedorheader .img {
+		float: left;
+		
+	}
