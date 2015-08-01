@@ -13,6 +13,10 @@
 	<h3>Final del documento.</h3>
 
 <style>
+body {
+	margin: 0px;
+	padding: 0px;
+}
 	.aviso {
 		width: 100%;
 		padding: 40px;
