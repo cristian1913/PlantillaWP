@@ -70,7 +70,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 	}
 	}
 
-	.contenedorheader .contenedorboton {
+	.contenedorheader .boton {
 		float: right;
 		background-color: #1F23EB;
 		padding: 15px;
