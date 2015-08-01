@@ -84,5 +84,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 	.contenedorheader .boton a {
 		text-decoration: none;
 		color: #fff;
+		margin-left: 10px;
 	}
 
