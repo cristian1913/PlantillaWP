@@ -11,6 +11,22 @@
 		<p>El flamante entrenador embajador se comia todas las.....</p>
 	</article>
 	<h3>Final del documento.</h3>
+
+<style>
+	.aviso {
+		width: 100%;
+		padding: 40px;
+		color: #A00E00;
+		background-color: #E77B72;
+		font-size: 30px;
+		font-family: Arial;
+	}
+</style>
+
+
+	<div class="aviso">
+		<h3>Advertencia! Todos los archivos serán eliminados en breve</h3>
+	</div>
 </head>
 <body>
 	
