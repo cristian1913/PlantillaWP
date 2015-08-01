@@ -41,8 +41,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		padding: 0px;
 	}
 
-
-
 	.contenedorheader .menu ul {
 		list-style: none;
 		overflow: hidden;
@@ -52,4 +50,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 
 	.contenedorheader .menu li {
 		float: left;
+	}
+
+	.contenedorheader .menu ul li a {
+		display: block;
+		text-decoration: none;
+		text-transform: uppercase;
+		color: #fff;
+		font-family: 'Droid Sans', sans-serif;
+
 	}
