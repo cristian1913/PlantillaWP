@@ -68,3 +68,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 	.contenedorheader .menu ul li a:hover {
 		color: #A84617;
 	}
+	}
+
+	.contenedorheader .boton {
+		float: right;
+	}
