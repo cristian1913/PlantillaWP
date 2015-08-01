@@ -71,8 +71,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 
 	.contenedorheader .boton {
 		float: right;
-		margin-top: 27px;
-		margin-bottom: 27px;
+		margin-top: 25px;
+		margin-bottom: 25px;
 		padding: 10px;
 		background-color: #BE691B;
 		text-transform: uppercase;
