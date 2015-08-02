@@ -107,3 +107,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		margin: 0px;
 	}
 
+	.sliderizq img {
+		width: 400px;
+	}
