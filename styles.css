@@ -110,3 +110,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 	.sliderizq img {
 		width: 550px;
 	}
+
+	.sliderizq p {
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-size: 20px;
+		padding-left: 30px;
+	}
