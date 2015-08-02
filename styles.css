@@ -125,3 +125,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		padding: 0px;
 		margin: 0px;
 	}
+
+	.sliderder h1 {
+		font-family: arial;
+		color: #fff;
+		font-size: 50px;
+	}
