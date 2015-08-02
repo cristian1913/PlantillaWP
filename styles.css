@@ -214,3 +214,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		margin: 0 auto;
 	}
 
+	.contenedorcontenido .online {
+		width: 990px;
+		float: top;
+		padding: 0px;
+		margin: 0px;
+	}
+
