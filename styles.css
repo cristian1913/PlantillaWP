@@ -140,5 +140,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		text-transform: uppercase;
 		font-family: 'Montserrat', sans-serif;
 		font-size: 30px;
+		padding-left: 30px;
 
 	}
