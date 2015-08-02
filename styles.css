@@ -88,4 +88,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 
 .slider {
 	background-image: url(http://i.imgur.com/oB2zQPt.jpg);
+	width: 100%;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
 }
