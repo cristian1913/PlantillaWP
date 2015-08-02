@@ -93,3 +93,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 	margin: 0px;
 	padding: 0px;
 }
+
+.contenedorslider {
+	width: 990px;
+	margin: 0 auto; 
+	overflow: hidden;
+}
