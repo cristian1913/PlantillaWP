@@ -224,5 +224,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 	.online h2 {
 		font-family: 'Roboto', sans-serif;
 		font-size: 40px;
+		background-color: #349CF1;
+		padding: 30px;
 
 	}
