@@ -141,5 +141,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		font-family: 'Montserrat', sans-serif;
 		font-size: 30px;
 		margin-left: 30px;
+	}
 
+	.sliderder .boton1 a {
+		text-decoration: none;
+		color: #fff;
 	}
