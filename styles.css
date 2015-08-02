@@ -189,6 +189,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 		width: 990px;
 		overflow: hidden;
 		margin: 0 auto;
+		padding-bottom: 10px;
+		padding-top: 10px;
 	}
 
 
