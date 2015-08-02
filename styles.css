@@ -94,8 +94,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', end
 	padding: 0px;
 }
 
-.contenedorslider {
+	.contenedorslider {
 	width: 990px;
 	margin: 0 auto; 
 	overflow: hidden;
-}
+	}
+
+	.contenedorslider .sliderizq {
+		float: left;
+		width: 445px;
+		padding: 0px;
+		margin: 0px;
+	}
+
