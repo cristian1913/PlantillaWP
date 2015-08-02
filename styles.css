@@ -1,95 +1,124 @@
-<!DOCTYPE html>
- <html lang="en">
- <head>
- 	<meta charset="UTF-8">
- 	<title>Página Win Sports</title>
- 	<link rel="stylesheet" type="text/css" href="styles.css">
- 	<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
- 	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
- </head>
- <body>
+	body {
+	margin: 0px;
+	padding: 0px;
+	font-size: 13px;
+	color: black;
+	font-family: Arial;
+	background-color: #F3F3F3;
+}
 
- 	<div class="contenedor">
+.header {
+background: rgb(44,83,158); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(44,83,158,1) 13%, rgba(44,83,158,1) 13%, rgba(44,83,158,1) 48%, rgba(44,83,158,1) 48%, rgba(44,83,158,1) 90%, rgba(44,83,158,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(13%,rgba(44,83,158,1)), color-stop(13%,rgba(44,83,158,1)), color-stop(48%,rgba(44,83,158,1)), color-stop(48%,rgba(44,83,158,1)), color-stop(90%,rgba(44,83,158,1)), color-stop(100%,rgba(44,83,158,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(44,83,158,1) 13%,rgba(44,83,158,1) 13%,rgba(44,83,158,1) 48%,rgba(44,83,158,1) 48%,rgba(44,83,158,1) 90%,rgba(44,83,158,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(44,83,158,1) 13%,rgba(44,83,158,1) 13%,rgba(44,83,158,1) 48%,rgba(44,83,158,1) 48%,rgba(44,83,158,1) 90%,rgba(44,83,158,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(44,83,158,1) 13%,rgba(44,83,158,1) 13%,rgba(44,83,158,1) 48%,rgba(44,83,158,1) 48%,rgba(44,83,158,1) 90%,rgba(44,83,158,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(44,83,158,1) 13%,rgba(44,83,158,1) 13%,rgba(44,83,158,1) 48%,rgba(44,83,158,1) 48%,rgba(44,83,158,1) 90%,rgba(44,83,158,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', endColorstr='#2c539e',GradientType=0 ); /* IE6-9 */
+	width: 100%;
+	overflow: hidden;
+	padding: 0px;
+	margin: 0px;
+	border-bottom: 2px solid #1A1313;
+}
 
- 		<div class="header">
- 			<div class="contenedorheader">
- 				<div class="img">
- 					<img src="win-sport.png">
- 				</div>
- 				<div class="menu">
- 					<ul>
- 						<li><a href="#">Aplicaciones</a></li>
- 						<li><a href="#">Programas</a></li>
- 						<li><a href="#">Winsports.co</a></li>
- 						<li><a href="#">Iniciar sesión</a></li>
- 						<li><a href="#">Cliente</a></li>
- 					</ul>
- 				</div>
- 				<div> <span class="boton"><a href="#">Suscríbete</a></span>
- 				</div>
- 			</div>
- 		</div>
+	.contenedorheader {
+		width: 990px;
+		margin: 0 auto;
+		overflow: hidden;
+	}
 
- 		<div class="slider">
- 			<div class="contenedorslider">
- 				<div class="sliderizq">
- 					<img src="http://i.imgur.com/G7rO9cj.png">
- 					<br>
- 					<p>Busca nuestras apps en:</p>
- 					<br>
- 					<span class="boton1"><a href="#"><img src="http://i.imgur.com/4vYQflW.png"></a></span>
- 					<span class="boton2"><a href="#">Hola</a></span>
- 					<span class="boton3"><a href="#">Hola</a></span>
- 				</div>
- 				<div class="sliderder">
- 					<h1>Hooola</h1>
-					<span class="boton1"><a href="#"></a></span>
-					<h2>Como van</h2>
-					<span class="boton2"><a href="#"></a></span>
- 				</div>
- 			</div>
- 		</div>
+	.contenedorheader .img {
+		float: left;
+		padding: 0px;
+		margin: 0px;
+	}
 
- 		<div class="fixture">
- 			<div class="contenedorfixture">
- 			</div>
- 		</div>
+	.contenedorheader .menu {
+		float: left;
+		margin: 0px;
+		padding: 0px;
+	}
 
- 		<div class="contenido">
- 			<div class="contenedorcontenido">
- 				<div class="online">
- 					<h2>ETB trae Win Sports</h1>
- 					<h1>¿Qué es Win Sports online</h1>
- 					<img src="">
- 					<h3></h3>
- 					<p></p>
- 				</div>
- 			</div>
- 		</div>
+	.contenedorheader .menu ul {
+		list-style: none;
+		overflow: hidden;
+		padding: 0px;
+		margin: 0px;
+	}
 
- 		<div class="suscribo">
- 			<div class="contenedorsuscribo">
- 				<h1>Conoce nuestros planes</h1>
- 				<h2>Plan mensual</h2>
- 				<h2>Plan mensual</h2>
- 				<h2>Plan mensual</h2>
- 				<h2>Plan mensual</h2>
- 				<h2>Plan mensual</h2>
- 				<p>Formas de pago</p>
- 			</div>
- 		</div>
+	.contenedorheader .menu li {
+		float: left;
+	}
 
- 		<div class="creditos">
- 			<div class="contenedorcreditos">
- 			</div>
- 		</div>
+	.contenedorheader .menu ul li a {
+		display: block;
+		text-decoration: none;
+		text-transform: uppercase;
+		color: #fff;
+		font-family: 'Droid Sans', sans-serif;
+		font-size: 15px;
+		border-right: 1px solid #433D78;
+		padding: 14px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
 
- 		<div class="footer">
- 			<div class="contenedorfooter">
- 			</div>
- 		</div>
- 		
- 	</div>
- 	
-</body>
- </html>
+	.contenedorheader .menu ul li a:hover {
+		color: #A84617;
+	}
+
+	.contenedorheader .boton {
+		float: right;
+		margin-top: 25px;
+		margin-bottom: 25px;
+		padding: 10px;
+		background-color: #BE691B;
+		text-transform: uppercase;
+		font-family: 'Droid Sans', sans-serif;
+		font-size: 15px;
+		margin-left: 10px;
+	}
+	
+	.contenedorheader .boton a {
+		text-decoration: none;
+		color: #fff;
+	}
+
+.slider {
+	background-image: url(http://i.imgur.com/oB2zQPt.jpg);
+	width: 100%;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+}
+
+	.contenedorslider {
+	width: 990px;
+	margin: 0 auto; 
+	overflow: hidden;
+	}
+
+	.contenedorslider .sliderizq {
+		float: left;
+		width: 445px;
+		padding: 0px;
+		margin: 0px;
+	}
+
+	.sliderizq img {
+		width: 550px;
+		margin-left: 0px;
+	}
+
+	.sliderizq p {
+		font-family: 'Roboto', sans-serif;
+		font-size: 25px;
+		padding-left: 100px;
+		color: #fff;
+	}
+
+	.sliderizq .boton1 {
+		width: 50px;
+	}
