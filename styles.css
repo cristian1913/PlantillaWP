@@ -223,5 +223,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 
 	.online h2 {
 		font-family: 'Roboto', sans-serif;
+		font-size: 40px;
 
 	}
