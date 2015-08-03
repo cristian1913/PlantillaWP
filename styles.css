@@ -310,3 +310,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', end
 		overflow: hidden;
 		margin: 0 auto;
 	}
+
+	.cconoce h1 {
+		font-family: 'Fjalla One', sans-serif;
+	}
