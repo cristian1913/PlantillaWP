@@ -304,3 +304,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', end
 	padding: 0px;
 	margin: 0px;
 }
+
+	.contenedorconoce {
+		width: 990px;
+		overflow: hidden;
+		margin: 0 auto;
+	}
