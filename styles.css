@@ -321,4 +321,19 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', end
 		font-family: 'PT Sans Narrow', sans-serif;
 		font-size: 30px;
 		color: #fff;
+		padding: 0px; 
+		margin: 0px;
+	}
+
+	.contenedorconoce .textod {
+		float: right;
+		margin: 0px;
+		padding: 0px;
+	}
+
+	.contenedorconoce .textod h1 {
+		text-transform: uppercase;
+		font-size: 30px;
+		color: #fff;
+		background-color: #CF800C;
 	}
