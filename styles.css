@@ -249,6 +249,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		float: left;
 		padding: 0px;
 		margin: 0px;
+		padding-bottom: 40px;
+		padding-top: 20px;
 	}
 
 	.abajo h2 {
