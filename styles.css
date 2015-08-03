@@ -229,3 +229,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		color: #fff;
 
 	}
+
+	.online h1 {
+		font-family: 'Merriweather', serif;
+		text-transform: uppercase;
+	}
