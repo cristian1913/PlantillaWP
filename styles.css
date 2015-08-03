@@ -281,7 +281,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 	.abajo h4 {
 		font-family: 'PT Sans Narrow', sans-serif;
 		font-size: 20px;
-		float: left;
+		float: right;
 		padding: 0px;
 		margin: 0px;
 		padding-left: 15px;
