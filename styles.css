@@ -380,6 +380,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		color: #100945;
 		font-family: 'Fjalla One', sans-serif;
 		font-size: 30px;
+		padding: 0px;
+		margin: 0px;
+	}
 
+	.div1 h3 {
+		float: left;
+		color: #100945;
+		font-family: 'Fjalla One', sans-serif;
+		font-size: 30px;
+		padding: 0px;
+		margin: 0px;
 
 	}
