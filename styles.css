@@ -332,6 +332,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', end
 	}
 
 	.contenedorconoce .textod h1 {
+		font-family: 'PT Sans Narrow', sans-serif;
 		text-transform: uppercase;
 		font-size: 30px;
 		color: #fff;
