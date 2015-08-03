@@ -311,8 +311,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', end
 		margin: 0 auto;
 	}
 
-	.conoce h1 {
-		font-family: 'PT Sans Narrow', sans-serif;
-		font-size: 30px;
-		color: #fff;
+	.contenedorconoce .textoi {
+		float: left;
+		margin: 0px;
+		padding: 0px;
 	}
+
+	
