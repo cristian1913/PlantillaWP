@@ -390,4 +390,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		margin: 0px;
 	}
 
+	.contenedorsuscribo .div2 {
+		float: left;
+		width: 330px;
+		margin: 0px;
+		padding: 0px;
+	}
+
+	.div2 h1 {
+		color: #100945;
+		font-family: 'Fjalla One', sans-serif;
+		font-size: 25px;
+		padding: 0px;
+		margin: 0px;
+	}
 	
