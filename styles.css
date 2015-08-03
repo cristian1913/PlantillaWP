@@ -325,7 +325,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', end
 		margin: 0px;
 		margin-top: 20px;
 		margin-bottom: 20px;
-		margin-left: 40px;
+		margin-left: 100px;
 	}
 
 	.contenedorconoce .textod {
@@ -341,4 +341,5 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', end
 		color: #fff;
 		background-color: #CF800C;
 		padding: 20px;
+		margin-right: 100px;
 	}
