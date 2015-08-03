@@ -241,6 +241,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		float: bottom;
 		padding: 0px;
 		margin: 0px;
+		padding-bottom: 30px;
 	}
 
 	.abajo h1 {
