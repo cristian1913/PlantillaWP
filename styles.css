@@ -268,3 +268,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		margin: 0px;
 		padding-left: 10px;
 	}
+
+	.abajo h4 {
+		font-family: 'PT Sans Narrow', sans-serif;
+		font-size: 20px;
+		float: left;
+		padding: 0px;
+		margin: 0px;
+		padding-left: 10px;
+	}
