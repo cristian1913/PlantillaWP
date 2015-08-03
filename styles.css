@@ -376,56 +376,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 	}
 
 	.contenedorsuscribo .div1 {
-		float: top;
+		float: left;
+		width: 330px;
+		margin: 0px;
+		padding: 0px;
 	}
 
-	.div1 h2 {
-		float: left;
+	.div1 h1 {
 		color: #100945;
 		font-family: 'Fjalla One', sans-serif;
 		font-size: 30px;
 		padding: 0px;
 		margin: 0px;
-	}
-
-	.div1 h3 {
-		float: left;
-		color: #100945;
-		font-family: 'Fjalla One', sans-serif;
-		font-size: 30px;
-		padding: 0px;
-		margin: 0px;
-		margin-left: 250px;
-	}
-
-	.div1 .boton {
-		float: right;
-		background-color: #AF6A1F;
-		font-family: 'Fjalla One', sans-serif;
-		font-size: 20px;
-		border-radius: 8px;
-		padding: 5px;
-		margin-bottom: 20px;
-		margin-right: 40px;
-	}
-
-	.div1 .boton a {
-		text-decoration: none;
-		color: #fff;
-	}
-
-	.contenedorsuscribo .div2 {
-		float: top;
-	}
-
-	.div2 h2 {
-		float: left;
-		color: #100945;
-		font-family: 'Fjalla One', sans-serif;
-		font-size: 30px;
-		padding: 0px;
-		margin: 0px;
-		margin-top: 20px;
 	}
 
 	
