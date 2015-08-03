@@ -403,5 +403,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		padding: 5px;
 		margin-bottom: 20px;
 		margin-right: 40px;
+	}
 
+	.div1 .boton a {
+		text-decoration: none;
+		color: #fff;
 	}
