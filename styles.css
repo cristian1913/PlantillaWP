@@ -369,4 +369,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		text-transform: uppercase;
 		font-family: 'Oswald', sans-serif;
 		font-size: 30px;
+		color: #100945;
+		padding: 0px;
+		margin: 0px;
 	}
