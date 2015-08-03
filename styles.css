@@ -235,3 +235,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		text-transform: uppercase;
 		color: #100945;
 	}
+
+	.contenedorcontenido .abajo {
+		width: 990px;
+		float: bottom;
+		padding: 0px;
+		margin: 0px;
+	}
