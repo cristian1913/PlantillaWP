@@ -410,15 +410,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		width: 330px;
 		margin: 0px;
 		padding: 0px;
+		text-align: bottom;
 	}
 
 	.div3 .boton {
 		float: right;
 		background-color: #AF6A1F;
 		font-family: 'Fjalla One', sans-serif;
-		font-size: 10px;
+		font-size: 20px;
 		border-radius: 8px;
 		padding: 5px;
+		
 		
 	}
 
