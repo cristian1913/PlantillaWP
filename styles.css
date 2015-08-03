@@ -242,3 +242,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		padding: 0px;
 		margin: 0px;
 	}
+
+	.abajo h1 {
+		font-family: 'PT Sans Narrow', sans-serif;
+	}
