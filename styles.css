@@ -317,4 +317,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', end
 		padding: 0px;
 	}
 
-	
+	.conoce .textoi h1 {
+		font-family: 'PT Sans Narrow', sans-serif;
+		font-size: 30px;
+		color: #fff;
+	}
