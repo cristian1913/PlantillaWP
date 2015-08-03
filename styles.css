@@ -251,7 +251,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		margin: 0px;
 		padding-bottom: 40px;
 		padding-top: 20px;
-		color: #1D1261;
+		color: #100945;
 	}
 
 	.abajo h2 {
@@ -263,6 +263,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		padding-left: 15px;
 		padding-bottom: 40px;
 		padding-top: 20px;
+		color: #100945;
 	}
 
 	.abajo h3 {
@@ -274,6 +275,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		padding-left: 15px;
 		padding-bottom: 40px;
 		padding-top: 20px;
+		color: #100945;
 	}
 
 	.abajo h4 {
@@ -285,4 +287,5 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		padding-left: 15px;
 		padding-bottom: 40px;
 		padding-top: 20px;
+		color: #100945;
 	}
