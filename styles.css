@@ -375,6 +375,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		margin-top: 40px;
 	}
 
+	.contenedorsuscribo .div1 {
+		float: top;
+	}
+
 	.div1 h2 {
 		float: left;
 		color: #100945;
