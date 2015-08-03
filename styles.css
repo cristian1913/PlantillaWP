@@ -364,3 +364,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		margin: 0 auto;
 		overflow: hidden;
 	}
+
+	.suscribo h1 {
+		text-transform: uppercase;
+		font-family: 'Oswald', sans-serif;
+		font-size: 30px;
+	}
