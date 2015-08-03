@@ -392,5 +392,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		padding: 0px;
 		margin: 0px;
 		margin-left: 250px;
+	}
+
+	.div1 .boton {
+		float: right;
+		background-color: #AF6A1F;
+		font-family: 'Fjalla One', sans-serif;
+		font-size: 20px;
+		border-radius: 8px;
+		padding: 20px;
 
 	}
