@@ -375,11 +375,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		margin-top: 40px;
 	}
 
-	.contenedorsuscribo .div1 {
-		float: top;
-		border-top: 1px solid #AF6A1F;
-	}
-
 	.div1 h2 {
 		float: left;
 		color: #100945;
@@ -413,6 +408,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 	.div1 .boton a {
 		text-decoration: none;
 		color: #fff;
+	}
+
+	.suscribo .div1 {
+		float: top;
+		border-bottom: 1px solid #AF6A1F;
 	}
 
 	
