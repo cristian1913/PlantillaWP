@@ -290,3 +290,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 		padding-top: 20px;
 		color: #100945;
 	}
+
+.conoce {
+background: rgb(167,207,223); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(167,207,223,1) 0%, rgba(35,83,138,1) 1%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(167,207,223,1)), color-stop(1%,rgba(35,83,138,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(167,207,223,1) 0%,rgba(35,83,138,1) 1%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(167,207,223,1) 0%,rgba(35,83,138,1) 1%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(167,207,223,1) 0%,rgba(35,83,138,1) 1%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(167,207,223,1) 0%,rgba(35,83,138,1) 1%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', endColorstr='#23538a',GradientType=0 ); /* IE6-9 */
+	overflow: hidden;
+	padding: 0px;
+	margin: 0px;
+}
